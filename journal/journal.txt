@@ -1,3 +1,8 @@
 week 1
 
 journal
+This week I used AI while working on the exercises to explain certain Python concepts and to provide coding examples, such as how to use f-strings. I did not use AI to complete any of the exercises, nor did I use it for debugging.
+
+I also tried out Gemini AI this week and did not have a good experience. I ran a comparison test using the same documents and prompts between Claude, ChatGPT, and Gemini. Even though I used the same prompts, they gave me very different results.
+I used a separate instance of Claude to help design, analyze, and fine-tune the test. In the end, I optimized the prompt and documents for ChatGPT and was able to dial in results that were close to my expected targets. Through this process, I learned a lot about why different AI models return such different results on the same prompts.
+It turns out it’s often due to biases in their analytic models—not unlike people.
