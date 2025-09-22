@@ -6,3 +6,11 @@ This week I used AI while working on the exercises to explain certain Python con
 I also tried out Gemini AI this week and did not have a good experience. I ran a comparison test using the same documents and prompts between Claude, ChatGPT, and Gemini. Even though I used the same prompts, they gave me very different results.
 I used a separate instance of Claude to help design, analyze, and fine-tune the test. In the end, I optimized the prompt and documents for ChatGPT and was able to dial in results that were close to my expected targets. Through this process, I learned a lot about why different AI models return such different results on the same prompts.
 It turns out it’s often due to biases in their analytic models—not unlike people.
+
+Week 2
+
+I did use AI while working on my exercises to help me better understand the concepts we were using,
+specifically with the loops, when asking ChatGPT to explain loops and what they are in python. https://chatgpt.com/c/68d1718e-f008-832c-80e3-9f09e1d467c4
+I did not use it for debugging this week, I did look at the examples given to me in Gemini as well to get a better idea of how to use loops as well. They really helped me get a better idea of how to incorporate loops into my code.
+
+
