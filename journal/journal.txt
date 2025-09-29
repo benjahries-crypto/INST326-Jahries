@@ -13,4 +13,10 @@ I did use AI while working on my exercises to help me better understand the conc
 specifically with the loops, when asking ChatGPT to explain loops and what they are in python. https://chatgpt.com/c/68d1718e-f008-832c-80e3-9f09e1d467c4
 I did not use it for debugging this week, I did look at the examples given to me in Gemini as well to get a better idea of how to use loops as well. They really helped me get a better idea of how to incorporate loops into my code.
 
+Week 3
+
+I did use AI while working on my exercises this week becuase I was stuck on acouple problems again with loops and 
+If statements, https://chatgpt.com/c/68d1718e-f008-832c-80e3-9f09e1d467c4. I think I learned this week that the use of 
+AI is not a horrible thing many of these professors say. I think it can be a very powerful tool that all people can use to make them more proficient
+ at what they do.
 
