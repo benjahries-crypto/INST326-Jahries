@@ -28,3 +28,10 @@ showing me the code but explaining why. https://chatgpt.com/c/68e313de-9184-8320
 Im learning more each week that AI is a tool that can be used correctly or abused, when you abuse it, it may cause
 more harm than good.
 
+Week 5
+
+I did use AI while working on my week 5 exercises, I used it to debug a few times and asked it what certain parts
+of code meant, for example, I stil wanted more information about the @property command, Chat GPT gave me a very
+easy to understand anwser and an example of how it is used which gave me clarity on the exercises this week.
+https://chatgpt.com/c/68eab0e3-bb48-8325-8e62-7cadc5919464
+
