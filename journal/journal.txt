@@ -41,3 +41,9 @@ I did use some AI on my week 6 exercises, I used it do debug my code twice and t
 start writing your code. I think the hardest thing for me when im coding is to start writing becuase its hard to get 
 more ideas about what to write when you have a blank canvas so that helped me better figure  out how to get things 
 going. https://chatgpt.com/c/68fed020-d6c4-832f-872a-62753672309e
+
+Week 7
+
+I did use AI while working on my week 7 exercises, I used it for debugging and specifically for try/except commands
+becuase I was still having trouble understanding them. I learned that when python tries to run everything in the (try:) block,
+and there is an error, it will jump to the except block and run from there. https://chatgpt.com/c/69090227-60d4-8329-ad05-ae8092a00a00
