@@ -47,3 +47,9 @@ Week 7
 I did use AI while working on my week 7 exercises, I used it for debugging and specifically for try/except commands
 becuase I was still having trouble understanding them. I learned that when python tries to run everything in the (try:) block,
 and there is an error, it will jump to the except block and run from there. https://chatgpt.com/c/69090227-60d4-8329-ad05-ae8092a00a00
+
+Week 8 
+During my Week 8 exercises, I continued using AI as a debugging partner, especially when I hit a string of errors that slowed me down. 
+A lot of my issues this week came from small mistakes that had big ripple effects: indentation errors that broke my control flow, missing colons, and exceptions I didn’t anticipate.
+I leaned on AI to help me trace where things were going wrong and to confirm whether the logic in my functions matched what Python actually expected.
+https://chatgpt.com/c/691170e3-fa38-8331-a77e-16fcc8cc7524
