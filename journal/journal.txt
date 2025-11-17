@@ -53,3 +53,9 @@ During my Week 8 exercises, I continued using AI as a debugging partner, especia
 A lot of my issues this week came from small mistakes that had big ripple effects: indentation errors that broke my control flow, missing colons, and exceptions I didn’t anticipate.
 I leaned on AI to help me trace where things were going wrong and to confirm whether the logic in my functions matched what Python actually expected.
 https://chatgpt.com/c/691170e3-fa38-8331-a77e-16fcc8cc7524
+
+Week 9 
+During my Week 9 exercises, I kept using AI as a support tool, but this time I focused more on refining my logic rather than fixing basic syntax issues.
+I still ran into some problems—mainly with functions not behaving the way I expected and a few errors that were caused by how I structured my conditions. But instead of getting stuck on the surface-level mistakes, I spent more time understanding why the errors were happening.
+AI helped me double-check my approach, especially when I wasn’t sure whether I was using the right method or applying the correct logic to a problem.
+https://chatgpt.com/c/691a8783-9cb8-832c-a197-d0f722bb9e3c
