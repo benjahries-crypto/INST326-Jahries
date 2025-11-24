@@ -59,3 +59,11 @@ During my Week 9 exercises, I kept using AI as a support tool, but this time I f
 I still ran into some problems—mainly with functions not behaving the way I expected and a few errors that were caused by how I structured my conditions. But instead of getting stuck on the surface-level mistakes, I spent more time understanding why the errors were happening.
 AI helped me double-check my approach, especially when I wasn’t sure whether I was using the right method or applying the correct logic to a problem.
 https://chatgpt.com/c/691a8783-9cb8-832c-a197-d0f722bb9e3c
+
+Week 10
+During my Week 10 exercises, I continued using AI as a support tool, but this week felt a little different from Week 9. Instead of struggling with logic or syntax right away,
+most of my early issues came from something much simpler: I forgot to run the starter code that was provided at the top of the notebook.
+Because of that, I kept getting errors saying that certain classes or functions weren’t defined, and it took me a bit to realize the problem wasn’t in my code—it was that the base code wasn’t loaded.
+Once I figured that out and actually ran the setup cell, things started making a lot more sense. I still had a few errors here and there, especially when I was working with properties, custom methods,
+and the ordering logic. But unlike earlier weeks, I focused more on understanding why the code behaved a certain way rather than just patching errors one at a time.
+AI was helpful again, especially for explaining why specific errors were happening and whether I was following the right approach for the data model tasks.
