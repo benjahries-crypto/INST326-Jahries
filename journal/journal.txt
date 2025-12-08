@@ -67,3 +67,11 @@ Because of that, I kept getting errors saying that certain classes or functions 
 Once I figured that out and actually ran the setup cell, things started making a lot more sense. I still had a few errors here and there, especially when I was working with properties, custom methods,
 and the ordering logic. But unlike earlier weeks, I focused more on understanding why the code behaved a certain way rather than just patching errors one at a time.
 AI was helpful again, especially for explaining why specific errors were happening and whether I was following the right approach for the data model tasks.
+
+Week 12
+
+During Week 12, I didn’t have coding exercises or debugging sessions like in previous weeks, but I still incorporated AI into my academic work in a meaningful way. Instead of using AI to troubleshoot Python errors or logic issues, I experimented with new writing tools while working on my paper.
+This week was more about refining communication rather than fixing technical problems, and it felt like a different kind of learning.
+One new tool I tried was Grammarly’s AI features, which turned out to be surprisingly helpful. While I’ve used basic spell-checking before, I never explored how AI could assist with clarity, tone, and structure.
+As I drafted and revised my paper, Grammarly helped me spot phrasing that was either confusing, too wordy, or repetitive. What I appreciated most was how the tool didn’t just mark something as “wrong”—it explained why the suggestion improved readability and sentence flow.
+That made the revision process less mechanical and more educational.
