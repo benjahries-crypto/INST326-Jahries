@@ -75,3 +75,10 @@ This week was more about refining communication rather than fixing technical pro
 One new tool I tried was Grammarly’s AI features, which turned out to be surprisingly helpful. While I’ve used basic spell-checking before, I never explored how AI could assist with clarity, tone, and structure.
 As I drafted and revised my paper, Grammarly helped me spot phrasing that was either confusing, too wordy, or repetitive. What I appreciated most was how the tool didn’t just mark something as “wrong”—it explained why the suggestion improved readability and sentence flow.
 That made the revision process less mechanical and more educational.
+
+Week 13
+
+During Week 13, I continued using AI as a support tool across multiple assignments, but in a more intentional and structured way than earlier in the semester. One of the biggest areas where it helped me was debugging. As my projects get more complex—especially our final INST311 project—it’s easier to miss small mistakes or overlook better ways to organize code.
+Instead of spending too much time guessing what might be wrong, I used AI to double-check my logic, walk through error messages, and compare my code structure with good examples. Even when it didn’t give me the perfect fix, it helped me understand why something was breaking, which made it easier to correct on my own.
+AI also played a role in guiding me through parts of our final project this week. I used it not to write the whole assignment, but to help outline certain components and verify that my approach matched what the rubric expected. It was especially helpful when I needed quick feedback or wanted to confirm that my reasoning made sense before moving forward.
+https://chatgpt.com/c/693b3db8-ec3c-832c-93e2-2ed47708c712
